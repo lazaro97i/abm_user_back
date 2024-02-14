@@ -1,0 +1,16 @@
+E:\LAZARO\abm_users\back\src\main\java\users\persistence\RoleDAO.java
+E:\LAZARO\abm_users\back\src\main\java\users\services\UserService.java
+E:\LAZARO\abm_users\back\src\main\java\users\entities\Role.java
+E:\LAZARO\abm_users\back\src\main\java\users\repositories\RoleRepository.java
+E:\LAZARO\abm_users\back\src\main\java\users\persistence\impl\UserDAOImpl.java
+E:\LAZARO\abm_users\back\src\main\java\users\services\RoleService.java
+E:\LAZARO\abm_users\back\src\main\java\users\services\impl\RoleServiceImpl.java
+E:\LAZARO\abm_users\back\src\main\java\users\services\impl\UserServiceImpl.java
+E:\LAZARO\abm_users\back\src\main\java\users\controllers\dto\RoleDTO.java
+E:\LAZARO\abm_users\back\src\main\java\users\UsersApplication.java
+E:\LAZARO\abm_users\back\src\main\java\users\controllers\dto\UserDTO.java
+E:\LAZARO\abm_users\back\src\main\java\users\entities\User.java
+E:\LAZARO\abm_users\back\src\main\java\users\repositories\UserRepository.java
+E:\LAZARO\abm_users\back\src\main\java\users\controllers\UserController.java
+E:\LAZARO\abm_users\back\src\main\java\users\persistence\UserDAO.java
+E:\LAZARO\abm_users\back\src\main\java\users\persistence\impl\RoleDAOImpl.java
