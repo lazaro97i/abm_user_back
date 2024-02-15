@@ -28,7 +28,7 @@ public class UserController {
 
     HashMap<String, Object> data;
 
-    @CrossOrigin(origins = "http://localhost:5173/")
+    @CrossOrigin(origins = "https://users-abm.onrender.com/")
     @GetMapping("")
     public ResponseEntity<?> findAll() {
 
@@ -71,7 +71,7 @@ public class UserController {
 
     }
 
-    @CrossOrigin(origins = "http://localhost:5173/")
+    @CrossOrigin(origins = "https://users-abm.onrender.com/")
     @GetMapping("/{dni}")
     public ResponseEntity<?> findById(@PathVariable int dni) {
 
@@ -111,7 +111,7 @@ public class UserController {
 
     }
 
-    @CrossOrigin(origins = "http://localhost:5173/")
+    @CrossOrigin(origins = "https://users-abm.onrender.com/")
     @PostMapping("")
     public ResponseEntity<?> save(@RequestBody UserDTO userDTO) {
 
@@ -169,7 +169,7 @@ public class UserController {
 
     }
 
-    @CrossOrigin(origins = "http://localhost:5173/")
+    @CrossOrigin(origins = "https://users-abm.onrender.com/")
     @PutMapping("/{id}")
     public ResponseEntity<?> updateOne(@PathVariable Long id, @RequestBody UserDTO userDTO) {
 
@@ -262,7 +262,7 @@ public class UserController {
 
     }
 
-    @CrossOrigin(origins = "http://localhost:5173/")
+    @CrossOrigin(origins = "https://users-abm.onrender.com/")
     @DeleteMapping("/{id}")
     public ResponseEntity<?> deleteOne(@PathVariable Long id) {
 
